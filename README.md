@@ -1,0 +1,4 @@
+- Created a file named Cabbage.txt inside Vegetable
+- Added some content to that file
+- Deleted Apple.txt from Fruits
+- Created Watermelon.txt inside Fruits
